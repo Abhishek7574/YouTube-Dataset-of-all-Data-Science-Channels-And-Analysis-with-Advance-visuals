@@ -15,11 +15,6 @@ This dataset contains detailed information about videos from various YouTube cha
 **YouTube Channels Included:**
 - sentdex - freeCodeCamp.org - CampusX - Darshil Parmar - Keith Galli - Alex The Analyst - Socratica - Krish Naik - StatQuest with Josh Starmer - Nicholas Renotte - Leila Gharani - Rob Mulla - Ryan Nolan Data - techTFQ - Dataquest - WsCube Tech - Chandoo - Luke Barousse - Andrej Karpathy - Thu Vu data analytics - Guy in a Cube - Tableau Tim - codebasics - DeepLearningAI - Rishabh Mishra - ExcelIsFun - Kevin Stratvert - Ken Jee - Kaggle - Tina Huang
 
-**Repository Organization:**
-- `Youtube_dataset_all_dataScience_channels.csv`: Dataset file
-- `Youtube_scrapping.ipynb`: Jupyter notebook for scraping YouTube data (code for scraping YouTube channels and creating the dataset)
-- `youtube-channels-analysis-with-advance-visuals.ipynb`: Jupyter notebook for detailed analysis with advanced visuals
-
 ### Data Cleaning & Preprocessing
 The data cleaning process involves several steps to ensure the dataset is ready for analysis. These steps include handling missing values, converting data types, and filtering out irrelevant information. The Python code used for data cleaning is provided in the Jupyter notebook.
 
@@ -41,4 +36,9 @@ The analysis is divided into several sections, each focusing on different aspect
 The detailed analysis and visualizations can be found in the Kaggle notebook linked below:
 
 **Kaggle Notebook:** [YouTube Channels Analysis with Advanced Visuals](https://www.kaggle.com/code/abhishek0032/youtube-channels-analysis-with-advance-visuals/notebook)
+
+**Repository Organization:**
+- `Youtube_dataset_all_dataScience_channels.csv`: Dataset file
+- `Youtube_scrapping.ipynb`: Jupyter notebook for scraping YouTube data (code for scraping YouTube channels and creating the dataset)
+- `youtube-channels-analysis-with-advance-visuals.ipynb`: Jupyter notebook for detailed analysis with advanced visuals
 
