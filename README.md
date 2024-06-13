@@ -7,7 +7,7 @@ This project involves the analysis of YouTube channels focused on data science a
 ## Dataset Description
 The dataset used in this project is sourced from Kaggle and comprises data scraped from various YouTube channels dedicated to data science and analytics. It includes information such as channel names, video titles, publication dates, views, like counts, and comment counts.
 
-**Dataset Link:** [YouTube Dataset - All Data Science/Analyst Channels]([link_to_kaggle_dataset](https://www.kaggle.com/datasets/abhishek0032/youtube-dataset-all-data-scienceanalyst-channels/data))
+**Dataset Link:** [YouTube Dataset - All Data Science/Analyst Channels](https://www.kaggle.com/datasets/abhishek0032/youtube-dataset-all-data-scienceanalyst-channels/data)
 
 **About Dataset:**
 This dataset contains detailed information about videos from various YouTube channels that specialize in data science and analytics. It includes metrics such as views, likes, comments, and publication dates. The dataset consists of 22862 rows, providing a robust sample for analyzing trends in content engagement, popularity of topics over time, and comparison of channels' performance.
@@ -40,4 +40,5 @@ The analysis is divided into several sections, each focusing on different aspect
 
 The detailed analysis and visualizations can be found in the Kaggle notebook linked below:
 
-**Kaggle Notebook:** [YouTube Channels Analysis with Advanced Visuals]([link_to_kaggle_notebook](https://www.kaggle.com/code/abhishek0032/youtube-channels-analysis-with-advance-visuals/notebook))
+**Kaggle Notebook:** [YouTube Channels Analysis with Advanced Visuals](https://www.kaggle.com/code/abhishek0032/youtube-channels-analysis-with-advance-visuals/notebook)
+
